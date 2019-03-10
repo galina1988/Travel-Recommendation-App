@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <h1> Travel Guide App</h1>
     <Search />
   </div>
 </template>
