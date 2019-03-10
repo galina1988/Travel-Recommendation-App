@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Rakuten Rapid API Logo" src="./assets/rakuten_logo.svg" style="height: 60px">
+    <h1> Travel Guide App</h1>
     <Search />
   </div>
 </template>
